@@ -1,0 +1,98 @@
+"Phrases"
+{
+	"Admin FFA"
+	{
+		"#format"	"{1:N}"
+		"en"		"[ {darkblue}Gamemode{default} ] Admin {1} has set the current mode to {darkred}Free For All{default}."
+		"pt"		"[ {darkblue}Gamemode{default} ] O Admin {1} mudou o modo de jogo para {darkred}FFA{default}" 
+	}
+	
+	"Admin TVT"
+	{
+		"#format"	"{1:N}"
+		"en"		"[ {darkblue}Gamemode{default} ] Admin {1} has set the current mode to {darkblue}Team VS Team{default}."
+		"pt"		"[ {darkblue}Gamemode{default} ] O Admin {1} mudou o modo de jogo para {darkblue}Equipa x Equipa{default}" 
+	}
+	
+	"Admin Cancel"
+	{
+		"#format"	"{1:N}"
+		"en"		"[ {darkblue}Gamemode{default} ] Admin {1} has canceled the vote."
+		"pt"		"[ {darkblue}Gamemode{default} ] O Admin {1} cacelou a votação" 
+	}
+	
+	"Already Stopped"
+	{
+		"en"		"[ {darkblue}Gamemode{default} ] The vote is stopped already!"
+		"pt"		"[ {darkblue}Gamemode{default} ] A votação já está parada!"
+	}
+	
+	"TVT Players"
+	{
+		"#format"	"{1:i}"
+		"en"		"[ {darkblue}Gamemode{default} ] The Current Mode is {darkblue}TVT{default} because there are {red}{1} players{default} on the server."
+		"pt"		"[ {darkblue}Gamemode{default} ] O Modo de Jogo Atual é {darkblue}TVT{default} porque estão {red}{1} jogadores{default} no servidor."
+	}
+	
+	"FFA Players"
+	{
+		"#format"	"{1:i}"
+		"en"		"[ {darkblue}Gamemode{default} ] The current mode is {darkred}FFA{default} because there is {red}less{default} than 14 players on the server. {darkblue}[{1}/14]{default}"
+		"pt"		"[ {darkblue}Gamemode{default} ] O Modo de Jogo Atual é {darkred}FFA{default} porque estão {red}menos{default} de 14 jogadores no servidor. {darkblue}[{1}/14]{default}"
+	}
+	
+	"Current FFA"
+	{
+		"en"		"[ {darkblue}Gamemode{default} ] The current mode is {darkred}FFA{default}."
+		"pt"		"[ {darkblue}Gamemode{default} ] O Modo de Jogo Atual é {darkred}FFA{default}."
+	}
+	
+	"Current TVT"
+	{
+		"en"		"[ {darkblue}Gamemode{default} ] The current mode is {darkblue}TVT{default}."
+		"pt"		"[ {darkblue}Gamemode{default} ] O Modo de Jogo Atual é {darkblue}TVT{default}."
+	}
+	
+	"Choose Gamemode"
+	{
+		"en"		"[ {darkblue}Gamemode{default} ] Choose Gamemode"
+		"pt"		"[ {darkblue}Gamemode{default} ] Escolher Modo de Jogo"
+	}
+	
+	"Cant Vote"
+	{
+		"en"		"[ {darkblue}Gamemode{default} ] You {red}cant{default} vote yet!"
+		"pt"		"[ {darkblue}Gamemode{default} ] Ainda não podes votar!"
+	}
+	
+	"Will FFA"
+	{
+		"en"		"[ {darkblue}Gamemode{default} ] THE GAMEMODE WILL BE {darkred}FFA{default}"
+		"pt"		"[ {darkblue}Gamemode{default} ] O MODO DE JOGO VAI SER {darkred}FFA{default}"
+	}
+	
+	"Will TVT"
+	{
+		"en"		"[ {darkblue}Gamemode{default} ] THE GAMEMODE WILL BE {darkblue}TVT{default}"
+		"pt"		"[ {darkblue}Gamemode{default} ] O MODO DE JOGO VAI SER {darkblue}TVT{default}"
+	}
+	
+	"Vote FFA"
+	{
+		"en"		"[ {darkblue}Gamemode{default} ] You have voted for FFA"
+		"pt"		"[ {darkblue}Gamemode{default} ] Votaste em FFA"
+	}
+	
+	"Vote TVT"
+	{
+		"en"		"[ {darkblue}Gamemode{default} ] You have voted for TVT"
+		"pt"		"[ {darkblue}Gamemode{default} ] Votaste em TVT"
+	}
+	
+	"Admin Canceled"
+	{
+		"#format"	"{1:N}"
+		"en"		"[ {darkblue}Gamemode{default} ] Admin {1} has canceled the vote!"
+		"pt"		"[ {darkblue}Gamemode{default} ] O Admin {1} cancelou a votação"
+	}
+}
